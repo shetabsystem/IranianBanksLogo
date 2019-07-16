@@ -4,7 +4,7 @@
  * Github: https://github.com/shetabsystem/IranianBanksLogo
  */
 .ibl32 {
-  background: url("ibls32.png") no-repeat;
+  background: url("ibl32.png") no-repeat;
   display: inline-block;
   width: 32px;
   height: 32px;
@@ -131,7 +131,7 @@
 }
 
 .ibl64 {
-  background: url("ibls64.png") no-repeat;
+  background: url("ibl64.png") no-repeat;
   display: inline-block;
   width: 64px;
   height: 64px;
@@ -258,7 +258,7 @@
 }
 
 .ibl128 {
-  background: url("ibls128.png") no-repeat;
+  background: url("ibl128.png") no-repeat;
   display: inline-block;
   width: 128px;
   height: 128px;
@@ -385,7 +385,7 @@
 }
 
 .ibl256 {
-  background: url("ibls256.png") no-repeat;
+  background: url("ibl256.png") no-repeat;
   display: inline-block;
   width: 256px;
   height: 256px;

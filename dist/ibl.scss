@@ -11,7 +11,7 @@ $width-list: 32 64 128 256;
 
 @each $width in $width-list {
   .ibl#{$width} {
-    background: url("ibls#{$width}.png") no-repeat;
+    background: url("ibl#{$width}.png") no-repeat;
     display: inline-block;
     width: $width*1px;
     height: $width*1px;
